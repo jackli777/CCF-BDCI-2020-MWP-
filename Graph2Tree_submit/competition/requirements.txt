@@ -1,0 +1,10 @@
+BaiduSpider==0.0.3
+w3lib==1.22.0
+hanlp==2.0.0a67
+textda==0.1.0.6
+numpy==1.18.5
+requests==2.23.0
+sympy==1.1.1
+torch==1.7.0+cu101
+tqdm==4.41.1
+treelib==1.6.1
